@@ -1,0 +1,7 @@
+C:\Users\luisa\source\repos\Ejercicio1Guia4\CUATRO\bin\Debug\CUATRO.exe.config
+C:\Users\luisa\source\repos\Ejercicio1Guia4\CUATRO\bin\Debug\CUATRO.exe
+C:\Users\luisa\source\repos\Ejercicio1Guia4\CUATRO\bin\Debug\CUATRO.pdb
+C:\Users\luisa\source\repos\Ejercicio1Guia4\CUATRO\obj\Debug\CUATRO.csprojAssemblyReference.cache
+C:\Users\luisa\source\repos\Ejercicio1Guia4\CUATRO\obj\Debug\CUATRO.csproj.CoreCompileInputs.cache
+C:\Users\luisa\source\repos\Ejercicio1Guia4\CUATRO\obj\Debug\CUATRO.exe
+C:\Users\luisa\source\repos\Ejercicio1Guia4\CUATRO\obj\Debug\CUATRO.pdb
